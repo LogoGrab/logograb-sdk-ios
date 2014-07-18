@@ -348,7 +348,6 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					../LogoGrabSDK/bin,
 					"$(PROJECT_DIR)",
-					"/Users/swissdnabank/Documents/fighissimo/logograb/logograb3-sdk-ios/LogoGrabSDK/bin",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SampleApp/SampleApp-Prefix.pch";
@@ -374,7 +373,6 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					../LogoGrabSDK/bin,
 					"$(PROJECT_DIR)",
-					"/Users/swissdnabank/Documents/fighissimo/logograb/logograb3-sdk-ios/LogoGrabSDK/bin",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SampleApp/SampleApp-Prefix.pch";
