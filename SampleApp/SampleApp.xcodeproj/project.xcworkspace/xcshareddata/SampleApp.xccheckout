@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9CBA2517-6B1F-4C21-B68B-CC3D24A18F68</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SampleApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8AD2E4E7-1BF8-475B-80E7-BC0F13E3F1D2</key>
+		<string>svn://fighissimo.com</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>logograb/logograb3-sdk-ios/SampleApp/SampleApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8AD2E4E7-1BF8-475B-80E7-BC0F13E3F1D2</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>8AD2E4E7-1BF8-475B-80E7-BC0F13E3F1D2</key>
+		<string>svn://fighissimo.com</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://fighissimo.com/logograb/logograb3-sdk-ios/SampleApp/SampleApp.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8AD2E4E7-1BF8-475B-80E7-BC0F13E3F1D2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8AD2E4E7-1BF8-475B-80E7-BC0F13E3F1D2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>fighissimo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
