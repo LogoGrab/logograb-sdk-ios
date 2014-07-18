@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		AD1DF7431866110800CAC426 /* LogoGrabSDK.bundle in Resources */ = {isa = PBXBuildFile; fileRef = AD1DF73F1866110700CAC426 /* LogoGrabSDK.bundle */; };
-		AD1DF7441866110800CAC426 /* LogoGrabSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD1DF7401866110700CAC426 /* LogoGrabSDK.framework */; };
 		AD1DF74A1866116B00CAC426 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD1DF7451866116B00CAC426 /* CoreData.framework */; };
 		AD1DF74B1866116B00CAC426 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = AD1DF7461866116B00CAC426 /* libsqlite3.dylib */; };
 		AD1DF74C1866116B00CAC426 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = AD1DF7471866116B00CAC426 /* libz.dylib */; };
@@ -23,7 +22,7 @@
 		AD1DF75C1866133C00CAC426 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD1DF75B1866133C00CAC426 /* CoreLocation.framework */; };
 		AD1DF75E1866134600CAC426 /* PassKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD1DF75D1866134600CAC426 /* PassKit.framework */; };
 		AD2450C218702FD500E945BE /* logograb_icon.png in Resources */ = {isa = PBXBuildFile; fileRef = AD2450C118702FD500E945BE /* logograb_icon.png */; };
-		AD649A3F1979A24A00FB5B86 /* FacebookSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD649A3E1979A24A00FB5B86 /* FacebookSDK.framework */; };
+		AD41D1361979DA7300ACF9B6 /* LogoGrabSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AD41D1351979DA7300ACF9B6 /* LogoGrabSDK.framework */; };
 		ADD31FEE18646A3500F4DE67 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ADD31FED18646A3500F4DE67 /* Foundation.framework */; };
 		ADD31FF218646A3500F4DE67 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ADD31FF118646A3500F4DE67 /* UIKit.framework */; };
 		ADD31FF818646A3500F4DE67 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = ADD31FF618646A3500F4DE67 /* InfoPlist.strings */; };
@@ -37,7 +36,6 @@
 /* Begin PBXFileReference section */
 		AD1DF72C1865EB5800CAC426 /* LogoGrabSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = LogoGrabSDK.framework; path = ../LogoGrabSDK/bin/LogoGrabSDK.framework; sourceTree = "<group>"; };
 		AD1DF73F1866110700CAC426 /* LogoGrabSDK.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = LogoGrabSDK.bundle; path = ../LogoGrabSDK/bin/LogoGrabSDK.bundle; sourceTree = "<group>"; };
-		AD1DF7401866110700CAC426 /* LogoGrabSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = LogoGrabSDK.framework; path = ../LogoGrabSDK/bin/LogoGrabSDK.framework; sourceTree = "<group>"; };
 		AD1DF7451866116B00CAC426 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		AD1DF7461866116B00CAC426 /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
 		AD1DF7471866116B00CAC426 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
@@ -52,7 +50,7 @@
 		AD1DF75B1866133C00CAC426 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		AD1DF75D1866134600CAC426 /* PassKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = PassKit.framework; path = System/Library/Frameworks/PassKit.framework; sourceTree = SDKROOT; };
 		AD2450C118702FD500E945BE /* logograb_icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logograb_icon.png; sourceTree = "<group>"; };
-		AD649A3E1979A24A00FB5B86 /* FacebookSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FacebookSDK.framework; path = ../LogoGrabSDK/bin/FacebookSDK.framework; sourceTree = "<group>"; };
+		AD41D1351979DA7300ACF9B6 /* LogoGrabSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = LogoGrabSDK.framework; path = ../LogoGrabSDK/bin/LogoGrabSDK.framework; sourceTree = "<group>"; };
 		ADD31FEA18646A3500F4DE67 /* SampleApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SampleApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADD31FED18646A3500F4DE67 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		ADD31FEF18646A3500F4DE67 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -83,13 +81,12 @@
 				AD1DF74C1866116B00CAC426 /* libz.dylib in Frameworks */,
 				AD1DF74D1866116B00CAC426 /* MapKit.framework in Frameworks */,
 				AD1DF74E1866116B00CAC426 /* QuartzCore.framework in Frameworks */,
-				AD649A3F1979A24A00FB5B86 /* FacebookSDK.framework in Frameworks */,
 				AD1DF758186611A300CAC426 /* MobileCoreServices.framework in Frameworks */,
+				AD41D1361979DA7300ACF9B6 /* LogoGrabSDK.framework in Frameworks */,
 				AD1DF7531866117B00CAC426 /* AudioToolbox.framework in Frameworks */,
 				AD1DF7541866117B00CAC426 /* AVFoundation.framework in Frameworks */,
 				AD1DF7561866118900CAC426 /* CoreMedia.framework in Frameworks */,
 				AD1DF7521866117B00CAC426 /* Accelerate.framework in Frameworks */,
-				AD1DF7441866110800CAC426 /* LogoGrabSDK.framework in Frameworks */,
 				ADD31FF218646A3500F4DE67 /* UIKit.framework in Frameworks */,
 				ADD31FEE18646A3500F4DE67 /* Foundation.framework in Frameworks */,
 			);
@@ -170,9 +167,8 @@
 		ADD3202218646A4F00F4DE67 /* bin */ = {
 			isa = PBXGroup;
 			children = (
-				AD649A3E1979A24A00FB5B86 /* FacebookSDK.framework */,
+				AD41D1351979DA7300ACF9B6 /* LogoGrabSDK.framework */,
 				AD1DF73F1866110700CAC426 /* LogoGrabSDK.bundle */,
-				AD1DF7401866110700CAC426 /* LogoGrabSDK.framework */,
 			);
 			name = bin;
 			sourceTree = "<group>";
@@ -352,6 +348,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					../LogoGrabSDK/bin,
 					"$(PROJECT_DIR)",
+					"/Users/swissdnabank/Documents/fighissimo/logograb/logograb3-sdk-ios/LogoGrabSDK/bin",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SampleApp/SampleApp-Prefix.pch";
@@ -377,6 +374,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					../LogoGrabSDK/bin,
 					"$(PROJECT_DIR)",
+					"/Users/swissdnabank/Documents/fighissimo/logograb/logograb3-sdk-ios/LogoGrabSDK/bin",
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SampleApp/SampleApp-Prefix.pch";
